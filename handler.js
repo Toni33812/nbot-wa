@@ -1,7 +1,7 @@
 // Config
 var config = {
-    botName: '🔹 𝙉 O T 🔹',
-    operator: ['6281515860089'],
+    botName: 'IPEN BOT',
+    operator: ['6281367536917'],
     prefix: process.env.prefix ? new RegExp('^' + process.env.prefix) : /^[°•π÷×¶∆£¢€¥®™✓_=|~!?@#$%^&.\/\\©^]/,
     downloadStatus: false, // Curi Status Orang :|
     devMode: false, // true,
